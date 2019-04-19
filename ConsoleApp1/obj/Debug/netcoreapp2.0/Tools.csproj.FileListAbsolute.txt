@@ -1,0 +1,11 @@
+C:\Users\gkouanseu\source\Test\Tools\ConsoleApp1\bin\Debug\netcoreapp2.0\Tools.deps.json
+C:\Users\gkouanseu\source\Test\Tools\ConsoleApp1\bin\Debug\netcoreapp2.0\Tools.runtimeconfig.json
+C:\Users\gkouanseu\source\Test\Tools\ConsoleApp1\bin\Debug\netcoreapp2.0\Tools.runtimeconfig.dev.json
+C:\Users\gkouanseu\source\Test\Tools\ConsoleApp1\bin\Debug\netcoreapp2.0\Tools.dll
+C:\Users\gkouanseu\source\Test\Tools\ConsoleApp1\bin\Debug\netcoreapp2.0\Tools.pdb
+C:\Users\gkouanseu\source\Test\Tools\ConsoleApp1\obj\Debug\netcoreapp2.0\Tools.csproj.CoreCompileInputs.cache
+C:\Users\gkouanseu\source\Test\Tools\ConsoleApp1\obj\Debug\netcoreapp2.0\Tools.AssemblyInfoInputs.cache
+C:\Users\gkouanseu\source\Test\Tools\ConsoleApp1\obj\Debug\netcoreapp2.0\Tools.AssemblyInfo.cs
+C:\Users\gkouanseu\source\Test\Tools\ConsoleApp1\obj\Debug\netcoreapp2.0\Tools.dll
+C:\Users\gkouanseu\source\Test\Tools\ConsoleApp1\obj\Debug\netcoreapp2.0\Tools.pdb
+C:\Users\gkouanseu\source\Test\Tools\ConsoleApp1\obj\Debug\netcoreapp2.0\Tools.csprojAssemblyReference.cache
